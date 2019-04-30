@@ -2,7 +2,7 @@
 ### Script to download Outlook inbox and visualize it using Plotly Dash
 #### Dashboard example: https://mailbox-analysis.herokuapp.com/
 
-This tools was designed to analyze heavily swamped corporate inboxes. Especially, it could be useful for team mailboxes: When several individuals operate one mailbox in Microsoft Outlook. Data visualization can serve as a starting point for a conversation about how the team can improve the processes connected to this mailbox: When are the most of emails coming? Who are the users that send most of emails? What is the structure of the mailbox? Who gets replies vs who sends emails? These and many other quesitons can be answered using this tool. Dashboard can be modified accordingly, the example provided is just a rather simple overview. 
+This tool was designed to analyze heavily swamped corporate inboxes. Especially, it could be useful for team mailboxes: When several individuals operate one mailbox in Microsoft Outlook. Data visualization can serve as a starting point for a conversation about how the team can improve the processes connected to this mailbox: When are the most of emails coming? Who are the users that send most of emails? What is the structure of the mailbox? Who gets replies vs who sends emails? These and many other quesitons can be answered using this tool. Dashboard can be modified accordingly, the example provided is just a rather simple overview. 
 
 ## Contents
 [I. How it can be used](#i-how-it-can-be-used) <br/>
